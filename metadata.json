@@ -1,0 +1,6 @@
+{
+  "name": "BikeParts Hub Pakistan",
+  "description": "Pakistan's premier motorcycle spare parts marketplace with verified fitment for Honda CD70/CG125, Yamaha YBR, Suzuki GS150, Cash on Delivery, and live warehouse inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
